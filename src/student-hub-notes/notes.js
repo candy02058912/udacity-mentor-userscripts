@@ -23,7 +23,7 @@ const notesScript = () => {
 
   // Load notes
   const notes = localStorage.getItem(storageKey);
-  ele.notesTextArea.innerText = notes;
+  ele.notesTextArea.value = notes;
 
   // Bind events
   ele.saveBtn.addEventListener("click", saveNotes);
