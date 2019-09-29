@@ -1,0 +1,22 @@
+{
+  "name": "udacity-mentor-userscripts",
+  "version": "1.0.0",
+  "description": "userscripts for udacity mentors",
+  "repository": "https://github.com/candy02058912/udacity-mentor-userscripts.git",
+  "author": "Candy Tsai <candy02058912@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build:dev": "webpack --mode=development",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-userscript": "^2.3.1"
+  },
+  "dependencies": {}
+}
