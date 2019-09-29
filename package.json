@@ -6,8 +6,8 @@
   "author": "Candy Tsai <candy02058912@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build:dev": "webpack --mode=development",
-    "build": "webpack"
+    "build:dev": "webpack --mode=development --watch",
+    "build": "webpack --mode=production"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
