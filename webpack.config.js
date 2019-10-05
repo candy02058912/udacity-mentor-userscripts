@@ -1,6 +1,4 @@
-const fs = require("fs");
 const path = require("path");
-const template = require("lodash/template");
 const WebpackUserscript = require("webpack-userscript");
 
 module.exports = {
