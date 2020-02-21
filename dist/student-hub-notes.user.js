@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Udacity Student Notes
-// @version     1.0.10
+// @version     1.0.11
 // @author      Candy Tsai <candy02058912@gmail.com>
 // @description Keep notes about your students
 // @match       *://hub.udacity.com/*
