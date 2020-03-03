@@ -22,6 +22,8 @@ Currently there's only a script for a notes section to the student hub.
 
 Idea originated from Sertac Ozker.
 
+Original author is Candy Tsai
+
 All notes are stored in **local storage**, so if you change your device and install this script, data will not persist.
 
 If you want to **delete** the notes from local storage, all keys are prefixed with `candy`.
