@@ -12,7 +12,7 @@ Since I only use Chrome, so the instructions are mainly for Chrome. Feel feel to
 
 ## 2. Install Userscript
 
-Currently there's only a script for a notes section to the student hub.
+Currently there the script adds useful links and a notes section to the student hub.
 
 ### [Student Hub Notes](https://github.com/candy02058912/udacity-mentor-userscripts/raw/master/src/student-hub-notes)
 
