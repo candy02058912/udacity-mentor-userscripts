@@ -20,7 +20,7 @@ Pull requests welcome!
 
 See the issues list for ideas/requests
 
-### [Student Hub Notes and Mentor Links](https://github.com/candy02058912/udacity-mentor-userscripts/raw/master/src/student-hub-notes)
+### [Student Hub Notes and Mentor Useful Links](https://github.com/candy02058912/udacity-mentor-userscripts/raw/master/src/student-hub-notes)
 
 - [Click to install](https://github.com/candy02058912/udacity-mentor-userscripts/raw/master/dist/student-hub-notes.user.js)
 
