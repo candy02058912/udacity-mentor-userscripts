@@ -14,6 +14,12 @@ Since I only use Chrome, so the instructions are mainly for Chrome. Feel feel to
 
 Currently there's one script that adds useful links and a notes section to the student hub.
 
+Please fork and add more features as you see fit.
+
+Pull requests welcome!
+
+See the issues list for ideas/requests
+
 ### [Student Hub Notes](https://github.com/candy02058912/udacity-mentor-userscripts/raw/master/src/student-hub-notes)
 
 - [Click to install](https://github.com/candy02058912/udacity-mentor-userscripts/raw/master/dist/student-hub-notes.user.js)
