@@ -2,7 +2,9 @@ import * as ele from "./elements";
 let saved = false;
 
 const notesScript = () => {
-  ele.injectELements();
+
+  const candy = document.querySelector("#candy-notes") !== null;
+  if (!candy) ele.injectELements();
 
   // get elements
   const saveBtn = document.getElementById("candy-save");
